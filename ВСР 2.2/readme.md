@@ -26,7 +26,7 @@
 
 ## Запуск проекта
 1. Клонируйте или скачайте репозиторий с проектом.
-2. Откройте Fibonacci.ipynb в Jupyter Notebook или VS Code.
+2. Откройте 2.2.ipynb в Jupyter Notebook или VS Code.
 3. Выполните ячейки по порядку.
 
 ---
